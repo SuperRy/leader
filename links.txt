@@ -1,0 +1,10 @@
+﻿https://www.codebyamir.com/blog/create-excel-files-in-c-sharp
+
+https://lvcharts.net/App/examples/v1/wpf/Basics
+
+https://stackoverflow.com/questions/31433189/how-to-get-range-in-epplus
+
+
+http://csharp.net-informations.com/datagridview/csharp-datagridview-tutorial.htm
+
+https://stackoverflow.com/questions/16874853/pass-value-from-usercontrol-to-form
